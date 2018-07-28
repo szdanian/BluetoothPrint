@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothPrinter</string>
+    <string name="main_device_manage">设备管理</string>
+    <string name="main_title">蓝牙打印</string>
+    <string name="main_button_feed">测试进纸</string>
+    <string name="main_button_print">测试打印</string>
+    <string name="main_button_manage">设备管理</string>
+    <string name="main_update_base">底座升级</string>
+</resources>

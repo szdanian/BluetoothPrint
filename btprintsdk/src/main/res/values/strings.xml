@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BtPrintSdk</string>
+    <string name="dm_button_back">返回</string>
+</resources>

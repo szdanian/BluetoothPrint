@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-21:19
+MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:6:9-62
+activity#com.danian.bluetoothprint.MainActivity
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-71
+service#com.danian.btmanage.BluetoothManage
+ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-18:39
+	android:enabled
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-63
+activity#com.danian.btdevice.DeviceManage
+ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:9-69
+	android:name
+		ADDED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:19-66

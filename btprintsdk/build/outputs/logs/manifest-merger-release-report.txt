@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:6:22-71
+application
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:8:5-15:19
+service#com.danian.btmanage.BluetoothManage
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:9:9-12:39
+	android:enabled
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:11:13-35
+	android:exported
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:10:13-63
+activity#com.danian.btdevice.DeviceManage
+ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml:14:19-66
+uses-sdk
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/src/main/AndroidManifest.xml

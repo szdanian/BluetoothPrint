@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.danian.bluetoothprint.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="@string/main_title"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/main_test_feed"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_normal"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="@string/main_button_feed" />
+
+    <Button
+        android:id="@+id/main_test_print"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_normal"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/main_button_print" />
+
+    <Button
+        android:id="@+id/main_update_base"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_normal"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/main_update_base" />
+
+    <Button
+        android:id="@+id/main_device_manage"
+        android:layout_width="260dp"
+        android:layout_height="40dp"
+        android:background="@drawable/button_normal"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="@string/main_button_manage" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:baselineAligned="false">
+
+        <LinearLayout
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/main_device_name"
+                android:layout_width="match_parent"
+                android:layout_height="22.2dp"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/main_device_address"
+                android:layout_width="match_parent"
+                android:layout_height="22.2dp"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="75dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="10dp">
+
+            <Button
+                android:id="@+id/main_device_bond"
+                android:layout_width="75dp"
+                android:layout_height="30dp"
+                android:background="@drawable/button_normal"
+                android:textColor="@android:color/white"
+                android:textSize="13sp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
