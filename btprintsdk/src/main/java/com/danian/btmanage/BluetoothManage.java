@@ -22,7 +22,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Set;
 
-
 public class BluetoothManage extends Service {
     private ScanState scanCallback;
     private ConnectState connectCallbak;
