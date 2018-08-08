@@ -5,19 +5,19 @@ INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/ap
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2938145f3ab03195b41b93b28f5cabeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e2cb1193923817ecd77d8fda426473b5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d90caa7760648a61a5a8f0bec4a6e7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee078635a2e69be2225cc12cb5b8c66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69f10c63546175999c338d87e5cd52d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/669825d11253d23dbcc38e59aadc84a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/68aa84120674469ebd4e591505416d48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b736392c77c1103ad48e29ba9b24acf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8df7f1ba90fcda9f86530d55b0602187/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd187bd3cc1d5f04948504d9caac8bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/584fc97344b8d1f8ed18ad1aba11023a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/316cee5688376ea0582fa12725a5cd9d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd7fcda9edea630cbbe0353e6fa28a0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:2:1-21:12
@@ -39,8 +39,8 @@ application
 ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-21:19
 MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-21:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e2cb1193923817ecd77d8fda426473b5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e2cb1193923817ecd77d8fda426473b5/AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
@@ -75,32 +75,32 @@ INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/ap
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
 MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:btprintsdk] /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/btprintsdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/054facea4aff358ff2a8464fd94e3a84/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/67de81e86981a9f9922d0605957b3b9e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7dd13e6508875cc8f2189e383e733797/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02a45c812acdd85a479c0c1674e737bb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/55de32b11bd8a6539892beeb535c60c7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f31d722f66b16e6fd379c445e680bb95/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bd69bd5203652080336f521996a020fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23ee4f6fcea0aad1f2a7264a9e327965/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f5361c2ea4b6e8a1e5cc78aa258bf502/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/71f748275504315b25ddfa8dd9673585/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a3508ea99c0539dffe79e0423bfa436/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8ffc7434abc47975e2413cf5f6be886a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1ec3bae23417936e2bae1cdfee0d44c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2938145f3ab03195b41b93b28f5cabeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2938145f3ab03195b41b93b28f5cabeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e2cb1193923817ecd77d8fda426473b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/danian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e2cb1193923817ecd77d8fda426473b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d90caa7760648a61a5a8f0bec4a6e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d90caa7760648a61a5a8f0bec4a6e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee078635a2e69be2225cc12cb5b8c66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6ee078635a2e69be2225cc12cb5b8c66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69f10c63546175999c338d87e5cd52d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69f10c63546175999c338d87e5cd52d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/669825d11253d23dbcc38e59aadc84a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/669825d11253d23dbcc38e59aadc84a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/68aa84120674469ebd4e591505416d48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/68aa84120674469ebd4e591505416d48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b736392c77c1103ad48e29ba9b24acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b736392c77c1103ad48e29ba9b24acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8df7f1ba90fcda9f86530d55b0602187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/danian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8df7f1ba90fcda9f86530d55b0602187/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd187bd3cc1d5f04948504d9caac8bc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bd187bd3cc1d5f04948504d9caac8bc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/584fc97344b8d1f8ed18ad1aba11023a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/584fc97344b8d1f8ed18ad1aba11023a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/316cee5688376ea0582fa12725a5cd9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/316cee5688376ea0582fa12725a5cd9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd7fcda9edea630cbbe0353e6fa28a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/danian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3cd7fcda9edea630cbbe0353e6fa28a0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
 INJECTED from /Users/danian/Documents/Developer/BluetoothPrint/BluetoothPrint/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
